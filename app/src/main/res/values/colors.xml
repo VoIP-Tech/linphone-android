@@ -94,4 +94,10 @@
     <color name="purple_main_300">#FF99FF</color>
     <color name="purple_main_500">#800080</color>
     <color name="purple_main_700">#520052</color>
+
+    <color name="primary_blue">#003865</color>
+    <color name="accent_gray">#98A4AE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
 </resources>
