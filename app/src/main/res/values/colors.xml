@@ -95,8 +95,13 @@
     <color name="purple_main_500">#800080</color>
     <color name="purple_main_700">#520052</color>
 
-    <color name="primary_blue">#003865</color>
-    <color name="accent_gray">#98A4AE</color>
+    <color name="SCC_dark_blue">#1F232C</color>
+    <color name="SCC_primary_blue">#003865</color>
+    <color name="SCC_secondary_blue">#0069AA</color>
+    <color name="SCC_middle_blue">#0076C0</color>
+    <color name="SCC_light_blue">#13B5EA</color>
+    <color name="SCC_primary_teal">#47C3D3</color>
+    <color name="SCC_accent_gray">#98A4AE</color>
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
 
