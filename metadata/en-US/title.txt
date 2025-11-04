@@ -1,1 +1,1 @@
-Linphone - open source SIP client
+Nextvox Communicator - open source SIP client
