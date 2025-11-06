@@ -136,4 +136,15 @@
         <item name="color_main1_700">@color/purple_main_700</item>
         <item name="color_chat_bubble_outgoing">@color/gray_main2_700</item>
     </style>
+
+    <!-- Nextvox Communicator Typography -->
+    <style name="NextvoxTitleFont">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="NextvoxBodyFont">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
 </resources>
