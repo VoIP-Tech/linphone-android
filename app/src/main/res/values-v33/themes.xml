@@ -10,4 +10,15 @@
         </item>
         <item name="android:windowSplashScreenBehavior">icon_preferred</item>
     </style>
+
+    <!-- Nextvox Communicator Typography -->
+    <style name="NextvoxTitleFont">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="NextvoxBodyFont">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
 </resources>
