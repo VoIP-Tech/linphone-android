@@ -2,7 +2,7 @@
 <resources>
     <color name="transparent_color">#00000000</color>
     <color name="bc_black">#000000</color>
-    <color name="bc_white">#FFFFFF</color>
+    <color name="bc_white">#98A4AE</color>
     <color name="dialog_background">#99000000</color><!-- 60% opacity -->
     <color name="shadow">#10000000</color>
     <color name="vu_meter">#3CFFFFFF</color>
@@ -102,7 +102,16 @@
     <color name="SCC_light_blue">#13B5EA</color>
     <color name="SCC_primary_teal">#47C3D3</color>
     <color name="SCC_accent_gray">#98A4AE</color>
-    <color name="white">#FFFFFF</color>
+    <color name="white">#98A4AE</color>
     <color name="black">#000000</color>
 
+
+    <!-- Nextvox Communicator Color Palette -->
+    <color name="nextvox_primary_dark">#003865</color>
+    <color name="nextvox_secondary_gray">#98A4AE</color>
+    <color name="nextvox_primary_medium">#0069AA</color>
+    <color name="nextvox_primary_blue">#0076C0</color>
+    <color name="nextvox_accent_cyan">#13B5EA</color>
+    <color name="nextvox_accent_teal">#47C3D3</color>
+    <color name="nextvox_dark_background">#1F232C</color>
 </resources>
