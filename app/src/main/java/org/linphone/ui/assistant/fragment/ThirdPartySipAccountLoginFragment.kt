@@ -98,6 +98,13 @@ class ThirdPartySipAccountLoginFragment : GenericFragment() {
             goBack()
         }
 
+        binding.setQrCodeClickListener {
+            Log.i("$TAG Navigating to QR Code Scanner")
+            if (findNavController().currentDestination?.id == R.id.thirdPartySipAccountLoginFragment) {
+                findNavController().navigate(R.id.action_thirdPartySipAccountLoginFragment_to_qrCodeScannerFragment)
+            }
+        }
+
         viewModel.showPassword.observe(viewLifecycleOwner) {
             lifecycleScope.launch {
                 delay(50)
