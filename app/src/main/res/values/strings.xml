@@ -149,8 +149,8 @@
     <string name="assistant_account_login">Login</string>
     <string name="assistant_scan_qr_code">Scan QR code</string>
     <string name="assistant_qr_code_invalid_toast">Invalid QR code!</string>
-    <string name="assistant_login_third_party_sip_account">Use a third party SIP account</string>
-    <string name="assistant_login_third_party_sip_account_title">Third party SIP account</string>
+    <string name="assistant_login_third_party_sip_account">Use a Nextvox Account</string>
+    <string name="assistant_login_third_party_sip_account_title">Nextvox Account</string>
     <string name="assistant_login_using_single_sign_on">Single sign on</string>
     <string name="assistant_login_cant_parse_address_toast">SIP address is invalid!</string>
     <string name="assistant_login_address_without_username_toast">SIP address doesn\'t contains a username!</string>
@@ -166,7 +166,7 @@
     <string name="assistant_sip_account_transport_protocol">Transport</string>
     <string name="assistant_sip_account_lime_algorithm">LIME algorithm(s) (comma separated)</string>
     <string name="assistant_sip_account_lime_algorithm_hint">Allowed values are: c25519, c448, c25519k512, c25519mlk512 and c448mlk1024</string>
-    <string name="assistant_third_party_sip_account_warning_explanation">Some features require a &appName; account, such as group messaging, video conferences…\n\nThese features are hidden when you register with a third party SIP account.\n\nTo enable it in a commercial project, please contact us.</string>
+    <string name="assistant_third_party_sip_account_warning_explanation">Some features require a &appName; account, such as group messaging, video conferences…\n\nThese features are hidden when you register with a Nextvox account.\n\nTo enable it in a commercial project, please contact us.</string>
     <string name="assistant_third_party_sip_account_create_linphone_account">I prefer to create a &appName; account</string>
     <string name="assistant_third_party_sip_account_warning_ok">I understand</string>
     <string name="assistant_account_register_unavailable_no_push_warning">Push notifications do not seem to be available on your device, but they are mandatory for creating an account in the mobile app.\n\nWe invite you to create an account on our web platform instead:</string>
