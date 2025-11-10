@@ -361,14 +361,10 @@
                     app:layout_constraintWidth_max="@dimen/button_max_width"
                     app:layout_constraintVertical_bias="1"
                     app:layout_constraintTop_toBottomOf="@id/outbound_proxy"
-                    app:layout_constraintBottom_toTopOf="@id/qr_code_button"
+                    app:layout_constraintBottom_toTopOf="@id/mountains"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintEnd_toEndOf="parent" />
 
-
-                <androidx.appcompat.widget.AppCompatTextView
-                    style="@style/tertiary_button_label_style"
-                    android:onClick="@{qrCodeClickListener}"
 
                                 <androidx.appcompat.widget.AppCompatTextView
                     style="@style/tertiary_button_label_style"
@@ -387,7 +383,7 @@
                     android:drawablePadding="8dp"
                     app:layout_constraintWidth_max="@dimen/button_max_width"
                     app:layout_constraintTop_toBottomOf="@id/login"
-                    app:layout_constraintBottom_toTopOf="@id/qr_code_button"
+                    app:layout_constraintBottom_toTopOf="@id/mountains"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintEnd_toEndOf="parent" />
 
