@@ -3,8 +3,8 @@
     <item
         android:drawable="@drawable/sc_compass_rose"
         android:gravity="center"
-        android:top="80dp"
-        android:bottom="80dp"
-        android:left="80dp"
-        android:right="80dp" />
+        android:top="120dp"
+        android:bottom="120dp"
+        android:left="120dp"
+        android:right="120dp" />
 </layer-list>
