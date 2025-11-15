@@ -9,6 +9,7 @@ mtu=1300
 force_ice_disablement=0
 
 [rtp]
+nortp_timeout=3600
 accept_any_encryption=1
 
 [sip]
