@@ -2,6 +2,7 @@
 ## Start of default rc
 
 [sip]
+default_proxy_transport=tls
 contact="Linphone Android" <sip:linphone.android@unknown-host>
 use_info=0
 use_ipv6=1
